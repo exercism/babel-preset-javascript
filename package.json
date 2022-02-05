@@ -1,6 +1,6 @@
 {
   "name": "@exercism/babel-preset-javascript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Babel preset configuration for the JavaScript track on Exercism",
   "main": "index.js",
   "author": "Derk-Jan Karrenbeld <derk-jan+git@karrenbeld.info>",
