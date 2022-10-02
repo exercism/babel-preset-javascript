@@ -8,7 +8,7 @@ module.exports = function () {
             node: 'current',
           },
           useBuiltIns: 'usage',
-          corejs: '3.21',
+          corejs: '3.25',
         },
       ],
     ],
