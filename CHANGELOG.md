@@ -1,8 +1,12 @@
 # Changelog
 
+## 0.2.1
+
+- Change repository to match `babel-preset-typescript`
+
 ## 0.2.0
 
-- Pin core-js so the configuration doesn't break
+- Add core-js pinning to `3.25.x`
 
 ## 0.1.2
 

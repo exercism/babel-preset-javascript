@@ -1,6 +1,6 @@
 {
   "name": "@exercism/babel-preset-javascript",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Babel preset configuration for the JavaScript track on Exercism",
   "main": "index.js",
   "author": "Derk-Jan Karrenbeld <derk-jan+git@karrenbeld.info>",
@@ -8,8 +8,8 @@
   "dependencies": {
     "@babel/core": "^7.19.3",
     "@babel/node": "^7.19.1",
-    "@babel/preset-env": "^7.19.3",
-    "core-js": "~3.25.3"
+    "@babel/preset-env": "^7.19.4",
+    "core-js": "~3.25.5"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
