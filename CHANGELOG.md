@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.4.0
+
+- Upgrade to Yarn 3
+
+## 0.3.0
+
+- Add core-js pinning to `3.30.x`
+- Enable overriding the core-js version via options
+
 ## 0.2.1
 
 - Change repository to match `babel-preset-typescript`
