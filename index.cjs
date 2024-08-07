@@ -1,4 +1,4 @@
-module.exports = function () {
+module.exports = function (_api, opts = {}) {
   return {
     presets: [
       [
@@ -8,7 +8,7 @@ module.exports = function () {
             node: 'current',
           },
           useBuiltIns: 'usage',
-          corejs: '3.25',
+          corejs: opts['corejs'] || '3.38',
         },
       ],
     ],
