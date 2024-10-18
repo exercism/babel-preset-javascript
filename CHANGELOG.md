@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.1
+
+- Update dependencies
+
 ## 0.5.0
 
 - Add core-js pinning to `3.38.x`
