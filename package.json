@@ -3,6 +3,9 @@
   "version": "0.6.0",
   "description": "Babel preset configuration for the JavaScript track on Exercism",
   "main": "index.cjs",
+  "scripts": {
+    "test": "pnpm node tests.cjs"
+  },
   "author": "Derk-Jan Karrenbeld <derk-jan+git@karrenbeld.info>",
   "license": "MIT",
   "dependencies": {

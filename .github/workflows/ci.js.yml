@@ -1,4 +1,4 @@
-name: preset smoke test
+name: preset tests
 
 on:
   pull_request:
@@ -24,4 +24,4 @@ jobs:
         run: corepack pnpm install --frozen-lockfile
 
       - name: Run tests
-        run: corepack pnpm node tests.cjs
+        run: corepack pnpm test
