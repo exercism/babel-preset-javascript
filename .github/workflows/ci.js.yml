@@ -1,4 +1,4 @@
-name: preset smoke test
+name: preset tests
 
 on:
   pull_request:
